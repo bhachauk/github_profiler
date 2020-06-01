@@ -93,12 +93,13 @@ input[type=text] {
     border: 1px solid #aaa;
     display: inline-block;
     padding: 5px 5px 5px 0px;
-    font-size: 10px;
+    font-size: 12px;
+    font-weight: bold;
 }
 
 .lang_name{
         color: white;
-        background: red;
+        background: #8B0000;
         padding: 5px;
     }
 
