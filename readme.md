@@ -1,5 +1,5 @@
 # GitHub Profiler
 
-To simply visualize and summary of a **GitHub Users** from their famous repositories and their used programming languages.
+To simply visualize the summary of a **GitHub Users** by their famous repositories and programming languages.
 
 ![demo](assets/img/demo.png)
