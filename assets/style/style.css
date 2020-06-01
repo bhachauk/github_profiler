@@ -1,0 +1,127 @@
+body{
+    font-family: 'Bad Script', cursive;
+}
+
+input[type=text]:focus {
+  outline: none;
+}
+
+#profile
+{
+    margin: 7%;
+    margin-top: 15px;
+    min-height: 800px;
+    height: auto;
+    display: none;
+    align: center;
+}
+
+#input_div
+{
+    text-align: center;
+    display: inline-block;
+}
+
+.header {
+    margin: -10;
+    text-align: center;
+    color: white;
+    background: #333;
+    padding-bottom: 20px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.info
+{
+    text-align: center;
+}
+
+.mininfo
+{
+    padding: 10px;
+}
+
+#followers, #following
+{
+    color: red;
+}
+
+
+input[type=text] {
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid white;
+  color: white;
+  background: #333;
+}
+
+#gobutton
+{
+    background: #ccc;
+    padding: 20px;
+    margin: 10px;
+    display: none;
+}
+
+
+#index
+{
+    padding-top: 300px;
+    padding: 100px;
+    color: red;
+    text-align: center;
+    font-size: 32px;
+}
+
+.languages{
+    padding: 15px;
+    margin: 5%;
+    text-align: center;
+}
+
+.language{
+    margin: 2%;
+    border: 1px solid #aaa;
+    display: inline-block;
+    padding: 5px 5px 5px 0px;
+    font-size: 10px;
+}
+
+.lang_name{
+        color: white;
+        background: red;
+        padding: 5px;
+    }
+
+
+.loader{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 300px;
+    display: none;
+}
+
+#loader{
+    color: green;
+}
+
+#error{
+    color: red;
+}
+
+#unwanted
+{
+        border: 1px solid #444;
+        border-radius: 4px;
+}
+
